@@ -1,0 +1,2 @@
+https://www.sql-practice.com/
+https://pgexercises.com/questions/updates/insert.html

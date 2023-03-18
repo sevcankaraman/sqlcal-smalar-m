@@ -1,0 +1,4 @@
+https://www.sqlkodlari.com/
+https://www.postgresqltutorial.com/
+https://www.w3schools.com/sql/exercise.asp
+https://www.tutorialspoint.com/postgresql/index.htm
